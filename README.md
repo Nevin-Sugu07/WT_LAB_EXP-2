@@ -15,7 +15,7 @@
     </head>
     <body>
         <fieldset>
-            <img src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\Class\download.png" class="center" width="50" height=200">
+            <img src="download.png" class="center" width="50" height=200">
             <span><h1 class="d" align="center">Vortex</h1></span> 
             <hr>
             <table>
@@ -41,7 +41,7 @@
                 <tr>
                     <th>
                         <video width="350" height="260" controls>
-                            <source src="C:\Users\nevin\OneDrive\SEM 5\WEB TECH\Class\Floating in Space_1080pFHR.mp4" type="video/mp4">
+                            <source src="Floating in Space_1080pFHR.mp4" type="video/mp4">
                             <source src="movie.ogg" type="video/ogg">
                             Your browser does not support the video tag.
                           </video>
